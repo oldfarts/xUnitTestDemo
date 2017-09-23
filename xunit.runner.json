@@ -1,0 +1,5 @@
+{
+	"enum-or-string-key": "value2",
+	"boolean-key": true,
+	"integer-key": 42
+}
